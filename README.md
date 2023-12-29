@@ -1,6 +1,6 @@
 # STA_380
-Intro to Machine Learning Assignment 
-Project work for STA 380 consisting of 9 questions
+Intro to Machine Learning Assignment  
+Project work for STA 380 consisting of 9 questions 
 Group Members: Amey Ghate(ag84957), Rathil Madihalli(rm63782), Arushi Sethi(as228398), HaoXiang Yi(hy6769)
 Probability practice's solution is in question1 folder - PDF file is uploaded along with the word document corresponding to the PDF.
 Wrangling the Billboard Top 100's solution is in question2 folder - Wrangling the Billboard Top 100.ipynb
